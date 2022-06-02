@@ -1,0 +1,26 @@
+title: Oleg Gulevskyy
+description: Personal blog where I try to share stuff about tech industry, engineering specifically, well-being, personal projects and so on.
+# This folder is where all the files related to the blog would live
+blogFolder: blog
+bannerImage: /banner.jpg
+navLinks:
+  - title: Clone Me
+    url: https://github.com/Kollate/truegit-test
+    isExternal: true
+socials:
+  linkedin: https://www.linkedin.com/in/oleg-gulevskyy-a04859108/
+  instagram: https://www.instagram.com/happychappyxoxo/?hl=en
+  github: https://github.com/OlegGulevskyy
+authors:
+  oleggulevskyy:
+    name: Oleg Gulevskyy
+    title: Software engineer
+    description: Coding stuff
+    url: https://www.ogulevskyy.me
+    profileImage: "./assets/oleggulevskyy.jpeg"
+    socials:
+      linkedin: https://www.linkedin.com/in/oleg-gulevskyy-a04859108/
+      instagram: https://www.instagram.com/happychappyxoxo/?hl=en
+      github: https://github.com/OlegGulevskyy
+      url: https://www.ogulevskyy.me
+      email: oleggulevskyy@gmail.com
